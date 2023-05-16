@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.ankita_ray_23.twa",
+                     "sha256_cert_fingerprints": ["B5:73:47:DA:29:8C:C2:43:19:2E:78:FE:C7:C5:B6:03:11:2B:18:10:4C:8B:AF:6E:05:A6:9E:A0:B1:9E:C6:18"] }
+      }
+]

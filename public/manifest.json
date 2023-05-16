@@ -25,7 +25,6 @@
   "description": "Description",
   "dir": "auto",
   "orientation": "any",
-  "scope": "https://ankita-ray-23.github.io/ankita-pwa/",
   "display_override": [
     "minimal-ui"
   ],
